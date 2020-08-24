@@ -1,0 +1,16 @@
+![Photo](shutter.jpg)
+
+## Its Cuisine
+From the simplest Spanish tortilla to the most elaborate paella, Spain’s food culture will make your mouth water. The classic Spanish tapas will be your go-to after a tiring day of tourism. For breakfast lovers, not eating churros would be a sin. Waking up to the smell of freshly made hot chocolate will make you jump from the bed.
+
+## Football Culture
+Spain is the country where football was born. Having the greatest teams worldwide, for all of the football lovers there is no better place than Spain. There is always something related to football going on. Whenever there is a game,  friends will meet to go to bars and support their teams. Taking a trip with your friends to go see a Clasico at Santiago Bernabeu or for the Barca fans at Camp Nou in Barcelona. History has been made in both stadiums so just standing there should be a frenetic experience right?
+
+## Tourism
+Spain has a wide array of options when it comes to places to visit. Places were history was made. Those who are passionate about history and learned from other cultures will really be amazed by all the rich culture Spain has to offer. There are also several museums with the most precious pieces of art from the country. Some of them as old as 1492! Even crazier in the Atapuerca Mountains is a place where painted caves dated from the Cretaceous era (80-10 MILLION years ago!)
+
+## Adventures
+For the adventure-seeking rush lovers, there are tons of options in Spain. From snowboarding or skiing in the north to do hikes in the magnificent mountains and even hunting or surfing. In fact, the North of Spain hosts many annual surfing competitions. There are also two amazing amusement parks to go to with your family! The Warner Bros Park is a pretty big amusement park that offers lots of different activities and Russian roulettes for the kids. And for those who are brave, this place has the highest free-falling ride in all EUROPE taking you 120 meters up and down.
+
+## Magical Islands
+Let’s start with the one that we all know: IBIZA. Located in the Baleares Islands, Ibiza is known for hosting insane boat and hotel parties with the best DJ’s in the world. But Spain also has a volcano in Tenerife (Canary Islands). Adding up to 11 islands, all of them are charming in their own way and worth visiting. The Baleares Islands are in the Mediterranean sea and the Canary Islands in the Atlantic ocean.
