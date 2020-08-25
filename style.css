@@ -24,6 +24,21 @@ nav>ul>li {display: inline;
     color: tomato;
 
 }  
+
+
+
+#ah {color: rgb(138, 29, 29);
+    font-family: monospace
+}
+
+h2 {text-align: center;
+    font-family: monospace;
+    font-size: 32px;
+    color: rgb(138, 29, 29);
+
+
+
+}
 nav {background-color: rgb(173, 40, 40)ed;}
 *{margin: 20px;}
 
