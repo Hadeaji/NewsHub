@@ -1,0 +1,81 @@
+h1 {color: rgb(252, 245, 245);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(173, 40, 40);
+    padding: 20px;
+}
+
+body {background-color: rgb(255, 233, 233);
+    opacity: 1.0;
+
+}
+
+
+
+nav>ul>li {display: inline;
+    color: rgb(243, 29, 29);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    float: right;
+    padding: 5px;
+    margin: 10px;
+    border: red;
+    border: solid;
+    background-color: white ;
+    color: tomato;
+
+}  
+nav {background-color: rgb(173, 40, 40)ed;}
+*{margin: 20px;}
+
+.art {display: inline-block;
+    color: rgb(138, 29, 29);
+
+}
+main {color: rgb(243, 7, 7)ed;}
+
+img:hover {
+    transform: scaleX(-1);
+  }
+  
+img {display: inline-block;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 300px;
+  }
+  
+    
+
+
+}
+
+section {
+    display: block;
+    background-color: rgb(138, 29, 29);
+    border: solid;
+    border: rgb(138, 29, 29);
+
+
+
+}
+
+footer {font-family: cursive;
+        color: white;
+        display: inline;
+
+}
+
+footer>p {    background-color: rgb(138, 29, 29);
+        padding: 20px;
+
+
+}
+
+.talks {
+display: inline-block;
+background-color: rgb(138, 29, 29);
+color: rgb(255, 255, 255);
+padding: 10px;
+}
+body {color: rgb(rgb(250, 250, 250);}
