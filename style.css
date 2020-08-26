@@ -30,7 +30,7 @@ nav>ul>li {display: inline;
     font-family: monospace
     
 }
-
+h4 {color: rgb(138, 29, 29)}
 
 .damn {display: ;
     background-color: white;}
@@ -101,6 +101,18 @@ footer {font-family: cursive;
         display: inline;
 
 }
+
+#mm {color: rgb(138, 29, 29);
+    font-family: monospace;
+    font-size: 32px;
+    margin-top: 20px;
+
+
+}
+.ni {display: inline-block;
+}
+
+
 
 footer>p {    background-color: rgb(138, 29, 29);
         padding: 20px;
